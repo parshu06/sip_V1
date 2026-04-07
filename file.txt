@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 hiiii parshuram
+=======
+hii bajrang
+>>>>>>> 08152a3 (added hiii bajrang)
